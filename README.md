@@ -4,7 +4,7 @@
 
 View the online resume: **https://mshamsur-rahman.github.io**
 
-- 14+ years in enterprise IT and telecommunications
+- Background in enterprise IT and telecommunications
 - Security operations: endpoint security, EDR, identity and access management, incident triage
 - Governance, risk and compliance: NIST CSF, NIST SP 800-53, ISO 27001
 - MEng, Dalhousie University | CompTIA Security+ | Cisco CCNA
